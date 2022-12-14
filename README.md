@@ -1,2 +1,2 @@
-# image-processing
+# *Image Processing*
 Senior year "Image Processing" course projects
